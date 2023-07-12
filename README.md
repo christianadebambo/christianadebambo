@@ -4,7 +4,7 @@
 
 - 💡 My expertise spans the entire machine learning pipeline, from **data preprocessing** to **model deployment**
   
-- 🫡 I'm also well versed in Data and Business Analytics
+- 💫 I'm also well versed in Data and Business Analytics
   
 - 🌱 I’m currently learning about **Recommender Systems**
 
