@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, SQL, Power BI and Tableau**
 
-- 📫 How to reach me **christianadeoyeadebambo@gmail.com**
+- 📫 Reach me on **christianadeoyeadebambo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
