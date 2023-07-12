@@ -2,7 +2,7 @@
 
 <h3 align="center">A Data Scientist and Machine Learning Engineer passionate about extracting insights from complex data sets and building intelligent systems.</h3><br/>
 
-- 💡 My expertise spans the entire machine learning pipeline, from **data preprocessing** to **model evaluation**
+- 💡 My expertise spans the entire machine learning pipeline, from **data preprocessing** to **model deployment**
   
 - 🌱 I’m currently learning about **Recommender Systems**
 
@@ -18,7 +18,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianadebambo&show_icons=true&locale=en&layout=compact" alt="christianadebambo" /></p>
