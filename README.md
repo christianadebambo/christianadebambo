@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian Adeoye Adebambo</h1>
 
-- 💡 My expertise spans the entire machine learning pipeline, from **data preprocessing** to **model deployment**
+- 💡 My expertise spans the entire ML pipeline, from **data preprocessing** to **model deployment**
   
 - 💫 I'm also well versed in **Data and Business Analytics**
   
