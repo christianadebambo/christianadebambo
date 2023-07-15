@@ -37,6 +37,10 @@
   
 </p>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianadebambo&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
+](https://github.com/christianadebambo/github-readme-stats)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianadebambo&show_icons=true&locale=en&layout=compact" alt="christianadebambo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christianadebambo&show_icons=true&locale=en" alt="christianadebambo" /></p>
