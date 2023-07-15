@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Adeoye Adebambo</h1>
 
-<h3 align="center">A Data Scientist passionate about extracting insights from complex data sets and building intelligent systems</h3><br/>
-
 - 💡 My expertise spans the entire machine learning pipeline, from **data preprocessing** to **model deployment**
   
 - 💫 I'm also well versed in **Data and Business Analytics**
