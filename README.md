@@ -37,6 +37,6 @@
   
 </p>
 
-<p>![Christian's GitHub stat](https://github-readme-stats.vercel.app/api?username=christianadebambo&show_icons=true&theme=radical)</p>
+![Christian's GitHub stat](https://github-readme-stats.vercel.app/api?username=christianadebambo&show_icons=true&theme=radical)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christianadebambo&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="christianadebambo" /></p>
