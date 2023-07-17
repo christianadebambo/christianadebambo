@@ -4,7 +4,7 @@
   
 - 💫 I'm also well versed in **Data and Business Analytics**
   
-- 🌱 I’m currently learning about **Recommender Systems**
+- 🌱 I’m currently learning about **Generative Adversarial Networks**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
