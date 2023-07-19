@@ -39,4 +39,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianadebambo&show_icons=true&rank_icon=github&locale=en&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28" alt="christianadebambo" /></p>
 
-<p>&nbsp;<img align="center" src="http://github-readme-stats-christianadebambo.vercel.app/api?username=christianadebambo&include_all_commits=true&show_icons=true&rank_icon=github&locale=en&theme=tokyonight&count_private=true" alt="christianadebambo" /></p>
+<p>&nbsp;<img align="center" src="http://github-readme-stats-christianadebambo.vercel.app/api?username=christianadebambo&include_all_commits=true&show_icons=true&rank_icon=github&locale=en&theme=tokyonight&count_private=true&hide=stars,contribs" alt="christianadebambo" /></p>
