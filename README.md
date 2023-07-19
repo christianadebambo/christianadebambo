@@ -39,4 +39,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianadebambo&show_icons=true&locale=en&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28" alt="christianadebambo" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianadebambo&theme=dark&show_icons=true&count_private=true)
+![Christian's GitHub stats](http://github-readme-stats-christianadebambo.vercel.app/)
